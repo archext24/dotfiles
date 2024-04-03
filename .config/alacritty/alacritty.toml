@@ -1,1 +1,17 @@
+#import = ["~/.config/alacritty/dracula.toml"]
+import = ["~/.config/alacritty/themes/thems/dracula.toml"]
+
+[font]
+size = 14
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Bold"
+
+[window]
+opacity = 1
+
+[window.padding]
+x = 15
+y = 15
 
