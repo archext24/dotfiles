@@ -17,9 +17,6 @@ set autoindent      # A new line will have the same number of leading spaces as 
 set indicator       # Displays a scroll bar on the right that shows the position and size of the current view port.
 set minibar         # Displays file name and other information in the bottom bar. Removes top bar.
 
-# Enable and set a working backup directory
-set backup                              # Creates backups of your current file.
-set backupdir "~/.cache/nano/backups/"  # The location of the backups.
 
 # Shortcut key bindings
 bind ^C copy main       # CTRC+C - Copy
